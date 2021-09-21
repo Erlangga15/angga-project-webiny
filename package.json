@@ -67,7 +67,9 @@
 			"api/code/pageBuilder/*",
 			"api/code/prerenderingService/render",
 			"api/code/prerenderingService/flush",
-			"api/code/prerenderingService/queue/*"
+			"api/code/prerenderingService/queue/*",
+			"fullstack/api/code/graphql",
+			"fullstack/app/code"
 		]
 	},
 	"scripts": {
